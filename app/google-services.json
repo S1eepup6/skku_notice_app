@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549019474312",
+    "firebase_url": "https://skku-notice-13178.firebaseio.com",
+    "project_id": "skku-notice-13178",
+    "storage_bucket": "skku-notice-13178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549019474312:android:70904d2d63420b17e8823d",
+        "android_client_info": {
+          "package_name": "edu.skku.map.personalproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549019474312-uqq5u57kgue43ibcsc1snb836vc2mgf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cHX_ea6LuYwhkhmEwvnsDXV69ESz4Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549019474312-uqq5u57kgue43ibcsc1snb836vc2mgf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
